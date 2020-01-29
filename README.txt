@@ -1,4 +1,4 @@
-project is writen in 2015.
+project is written in 2015.
 
 Overview:
 Deepimax is an adversarial search over deep decision trees, a better alternative to MinimaxABP or Expectimax made in 2015 for my university article.
