@@ -1,8 +1,6 @@
-project is written in 2015.
-
 Overview:
-Deepimax is an adversarial search over deep decision trees, a better alternative to MinimaxABP or Expectimax made in 2015 for my university article.
-It's also submitted as a paper in the 2015 IEEE Hamedan Student Branch. Code: C-IT16-09950264
+Deepimax is an adversarial search over deep decision trees, a better alternative to MinimaxABP or Expectimax made in 2016 for my university article.
+It's also submitted as a paper in the 2016 IEEE Hamedan Student Branch. Code: C-IT16-09950264
 Deepimax offers more efficient and practical searching in terms of time and space complexity.
 
 Project:
