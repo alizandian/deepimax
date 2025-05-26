@@ -62,6 +62,18 @@ wheel                     0.33.6
 wincertstore              0.2
 ```
 
+shorter version:
+
+```
+plotly==4.4.1
+retrying==1.3.3
+six==1.14.0
+certifi==2019.11.28
+setuptools==45.1.0
+pip==20.0.2
+wheel==0.33.6
+```
+
 ---
 
 ## 🚀 Running the Project
